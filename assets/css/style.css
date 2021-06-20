@@ -1,0 +1,291 @@
+@media (max-width:300px) {
+    .custom-css {
+        border: 2px solid black;
+        height: 190px;
+        width: 100px;
+        display: inline-block;
+    }
+    .c-css {
+        justify-content: center;
+        justify-items: center;
+    }
+    .center-custum {
+        justify-content: center;
+        text-align: center;
+        justify-items: center;
+    }
+    .paddding-top {
+        margin-top: 5px;
+        font-size: 80px;
+        margin-bottom: 5px;
+    }
+    .tg {
+        border-collapse: collapse;
+        border-spacing: 0;
+        justify-content: center;
+        text-align: center;
+        justify-items: center;
+        width: 100%;
+    }
+    .tg td {
+        border-color: black;
+        border-style: solid;
+        border-width: 1px;
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        overflow: hidden;
+        padding: 10px 5px;
+        word-break: normal;
+    }
+    .tg th {
+        border-color: black;
+        border-style: solid;
+        border-width: 1px;
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        font-weight: normal;
+        overflow: hidden;
+        padding: 10px 5px;
+        word-break: normal;
+    }
+    .tg .tg-0pky {
+        border-color: inherit;
+        text-align: left;
+        vertical-align: top
+    }
+    .tg-0pky {
+        border: 2px solid black;
+        height: 190px;
+        width: 201px;
+        /* display: inline-block; */
+        margin: 5px;
+    }
+    .center-custum {
+        justify-content: center;
+        text-align: center;
+        justify-items: center;
+    }
+    img {
+        height: 100%;
+        width: 100%;
+    }
+}
+
+@media (min-width:300px) and (max-width:500px) {
+    .custom-css {
+        border: 2px solid black;
+        height: 190px;
+        width: 100px;
+        display: inline-block;
+    }
+    .c-css {
+        justify-content: center;
+        justify-items: center;
+    }
+    .center-custum {
+        justify-content: center;
+        text-align: center;
+        justify-items: center;
+    }
+    .paddding-top {
+        margin-top: 5px;
+        font-size: 80px;
+        margin-bottom: 5px;
+    }
+    .tg {
+        border-collapse: collapse;
+        border-spacing: 0;
+        justify-content: center;
+        text-align: center;
+        justify-items: center;
+        width: 100%;
+    }
+    .tg td {
+        border-color: black;
+        border-style: solid;
+        border-width: 1px;
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        overflow: hidden;
+        padding: 10px 5px;
+        word-break: normal;
+    }
+    .tg th {
+        border-color: black;
+        border-style: solid;
+        border-width: 1px;
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        font-weight: normal;
+        overflow: hidden;
+        padding: 10px 5px;
+        word-break: normal;
+    }
+    .tg .tg-0pky {
+        border-color: inherit;
+        text-align: left;
+        vertical-align: top
+    }
+    .tg-0pky {
+        border: 2px solid black;
+        height: 190px;
+        width: 201px;
+        /* display: inline-block; */
+        margin: 5px;
+    }
+    .center-custum {
+        justify-content: center;
+        text-align: center;
+        justify-items: center;
+    }
+    img {
+        height: 100%;
+        width: 100%;
+    }
+}
+
+@media (min-width:500px) and (max-width:800px) {
+    .custom-css {
+        border: 2px solid black;
+        height: 190px;
+        width: 100px;
+        display: inline-block;
+    }
+    .c-css {
+        justify-content: center;
+        justify-items: center;
+    }
+    .center-custum {
+        justify-content: center;
+        text-align: center;
+        justify-items: center;
+    }
+    .paddding-top {
+        margin-top: 5px;
+        font-size: 80px;
+        margin-bottom: 5px;
+    }
+    .tg {
+        border-collapse: collapse;
+        border-spacing: 0;
+        justify-content: center;
+        text-align: center;
+        justify-items: center;
+        width: 100%;
+    }
+    .tg td {
+        border-color: black;
+        border-style: solid;
+        border-width: 1px;
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        overflow: hidden;
+        padding: 10px 5px;
+        word-break: normal;
+    }
+    .tg th {
+        border-color: black;
+        border-style: solid;
+        border-width: 1px;
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        font-weight: normal;
+        overflow: hidden;
+        padding: 10px 5px;
+        word-break: normal;
+    }
+    .tg .tg-0pky {
+        border-color: inherit;
+        text-align: left;
+        vertical-align: top
+    }
+    .tg-0pky {
+        border: 2px solid black;
+        height: 190px;
+        width: 201px;
+        display: inline-block;
+        margin: 5px;
+    }
+    .center-custum {
+        justify-content: center;
+        text-align: center;
+        justify-items: center;
+    }
+    img {
+        height: 100%;
+        width: 100%;
+    }
+}
+
+@media (min-width:800px) {
+    .custom-css {
+        border: 2px solid black;
+        height: 190px;
+        width: 100px;
+        display: inline-block;
+    }
+    .c-css {
+        justify-content: center;
+        justify-items: center;
+    }
+    .center-custum {
+        justify-content: center;
+        text-align: center;
+        justify-items: center;
+    }
+    .paddding-top {
+        margin-top: 5px;
+        font-size: 80px;
+        margin-bottom: 5px;
+    }
+    .tg {
+        border-collapse: collapse;
+        border-spacing: 0;
+        justify-content: center;
+        text-align: center;
+        justify-items: center;
+        width: 100%;
+    }
+    .tg td {
+        border-color: black;
+        border-style: solid;
+        border-width: 1px;
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        overflow: hidden;
+        padding: 10px 5px;
+        word-break: normal;
+    }
+    .tg th {
+        border-color: black;
+        border-style: solid;
+        border-width: 1px;
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        font-weight: normal;
+        overflow: hidden;
+        padding: 10px 5px;
+        word-break: normal;
+    }
+    .tg .tg-0pky {
+        border-color: inherit;
+        text-align: left;
+        vertical-align: top
+    }
+    .tg-0pky {
+        border: 2px solid black;
+        height: 190px;
+        width: 201px;
+        display: inline-block;
+        margin: 5px;
+    }
+    .center-custum {
+        justify-content: center;
+        text-align: center;
+        justify-items: center;
+    }
+    img {
+        height: 100%;
+        width: 100%;
+    }
+}
